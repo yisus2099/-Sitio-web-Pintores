@@ -17,7 +17,7 @@
         text-decoration: none;
     }
 .menu li a:hover{
-        color: wheat;
+        color: rgb(0, 0, 0);
         transition: all .3s;
     }
 .menu h1{
