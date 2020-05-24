@@ -1,0 +1,11 @@
+body{
+background-image: url(/imagen/louvre.jpg);
+}
+.titulo h1{
+    font-size: 300%;
+     text-align: center;
+}
+.titulo h1:hover{
+    color: wheat;
+        transition: all .3s;
+}
