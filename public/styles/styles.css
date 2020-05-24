@@ -6,6 +6,6 @@ body{
     margin: 0;
 }
 header{
-    background-color:  rgb(93, 127, 150) ;
+    background: linear-gradient(blue, black);
     padding-top: 10px;
 }

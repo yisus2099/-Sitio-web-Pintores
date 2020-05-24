@@ -2,25 +2,25 @@
     width: 1000px;
     margin: 30px auto;
     }
-    .navegacion ul{
+.navegacion ul{
         list-style: none;
     }
-    .menu > li{
+.menu > li{
         display: inline-block;
     }
-    .menu >li >a{
+.menu >li >a{
         display: block;
         padding: 15px 20px;
         color: rgb(223, 220, 59);
-        background-color: rgb(93, 127, 150) ;
+        background: linear-gradient(blue, black);
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         text-decoration: none;
     }
-    .menu li a:hover{
+.menu li a:hover{
         color: wheat;
         transition: all .3s;
     }
-    .menu h1{
+.menu h1{
         text-align: center;
         font-size: 195%;
     }
