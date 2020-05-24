@@ -16,3 +16,12 @@ main{
     padding: 15px;
     padding-top: 3px;
 }
+img{
+    width: 550px;
+    display: block;
+    margin: auto;
+
+}
+.imagenes h2{
+    text-align: center;
+}
