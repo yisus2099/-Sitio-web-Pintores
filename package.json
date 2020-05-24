@@ -1,0 +1,19 @@
+{
+  "name": "sitio-web-pintores-yisus2099",
+  "version": "1.0.0",
+  "description": "Sitio estatico de mis pintores favoritos con express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yisus2099/sitio-web-Pintores-yisus2099.git"
+  },
+  "author": "Jesús Alejandro Torres Ramírez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yisus2099/sitio-web-Pintores-yisus2099/issues"
+  },
+  "homepage": "https://github.com/yisus2099/sitio-web-Pintores-yisus2099#readme"
+}
