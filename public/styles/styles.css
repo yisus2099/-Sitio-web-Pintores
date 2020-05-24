@@ -9,3 +9,10 @@ header{
     background: linear-gradient(blue, black);
     padding-top: 10px;
 }
+h3{
+    text-align: justify;
+}
+main{
+    padding: 15px;
+    padding-top: 3px;
+}
